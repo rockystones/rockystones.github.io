@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Rocky Stone's page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Delin Shi"
 description              : &description "personal description"
 url                      : https://rockystones.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Carnegie Mellon University/University of Pittsburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "delins.all.ads@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
