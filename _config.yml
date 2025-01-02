@@ -7,6 +7,8 @@
 # server process.
 
 # Basic Site Settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 locale                   : "en-US"
 title                    : "Rocky Stone's page"
 title_separator          : "-"
