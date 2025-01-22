@@ -13,16 +13,16 @@ tags:
 ---
 
 
-Get to know GitHub
-======
+### Get to know GitHub
+
 
 GitHub is one of the most popular code management plateforms for software developers around the world. 
 There are many useful features, and now even better with Copilot. Academic labs get to take advantage of educational benefits to upgrade to GitHub Pro for free.
 
 GitHub is not intended for large file storage (>25 Mb). Unless your experimental data file is small, don't try to store your raw data files on GitHub. But you can store exported data or analyzed data results. 
 
-Design the Repository Structure 
-======
+### Design the Repository Structure 
+
 
 You can created unlimited repositories. It is important to create a structure system to keep things organized and well-tracked as the number of repositories grow. 
 
