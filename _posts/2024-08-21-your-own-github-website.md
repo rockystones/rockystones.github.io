@@ -12,7 +12,7 @@ tags:
   - Customize
 ---
 
-I always wanted to start my own website, original was thinking blogpost/wordpress, later I was attracted to GitHub pages because it seems really easy to setup and customize. I still know almost nothing about building and maintaining a website, but this is where I started. For a nerd and geeky guy, GitHub seems to be the right place.
+I always wanted to start my own website, originally was thinking blogpost/wordpress, later I was attracted to GitHub pages because it seems really easy to setup and customize. I still know almost nothing about building and maintaining a website, but this is where I started. For a nerd and geeky guy, GitHub seems to be the right place.
 
 ### GitHub Pages
 
