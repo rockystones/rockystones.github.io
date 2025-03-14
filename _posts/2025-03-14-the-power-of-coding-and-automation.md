@@ -11,9 +11,9 @@ tags:
   - Productivity
 ---
 
-## The power of coding and automation
-
 If you need to measure something from a bunch of images, and the processing method is repetitive for each one, don't you want to do it automatically in seconds rather than clicking buttons all day?
+
+## The power of coding and automation
 
 Whatever you can achieve in ImageJ by clicking buttons, you can do it automatically using ImageJ Macros.  
 
